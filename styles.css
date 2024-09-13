@@ -1,0 +1,33 @@
+body {
+            font-family: Georgia,Serif;
+            padding: 20px;
+            
+        }
+
+
+div{
+    width:437px;
+    margin:auto;
+    
+}
+img{
+    width:100%;
+}
+
+.boldText{
+    
+    color:red;
+    
+}
+
+.highlighted 
+{
+            background-color: orange;
+        }
+.bold {
+            font-weight: bold;
+        }
+.underlined 
+{
+            text-decoration: underline;
+        }
